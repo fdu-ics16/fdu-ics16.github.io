@@ -1,0 +1,10 @@
+There are basically two ways for a typical Windows user to get access to a Linux system:
+  1. Install a dual Linux system alongside with your Windows system. Please search on Google/Bing for further information.
+  2. Use visual machine software to setup a Linux system inside your Windows. Again, Google is your friend.
+
+Since most Linux distribution is available online for free, we did not provide any ISO file on the course website for the sake of storage limitation.
+In case of specific Linux distribution, we recommend Ubuntu 16.*. It is a stable and, most importantly, widely used distribution.
+The most commonly used visual machine software is VMware which, unfortunately, is not for free. Thus we can not provide it neither.
+However, if you know how to download file using Fudan PT, you can get both VMware and Ubuntu 16.* from there, you bet, for free!
+
+Of course, you are welcomed to come to me(oucz14@fudan.edu.cn) to get help. I can provide a decent Linux setup using dual system way.
